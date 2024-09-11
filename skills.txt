@@ -1,0 +1,5 @@
+I hope that after completing the course I will be able to:
+1) Write simple JS code for my own and work needs;
+2) Understand what our frontend developers have written;
+3) Use Postman's autotests to their full potential, not just the built-in samples;
+4) Write beautiful and working autotests of API, UI, etc.
